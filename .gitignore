@@ -63,4 +63,4 @@ logs/
 
 venv/
 src\chatbotcrud\data
-.env/
+.env
