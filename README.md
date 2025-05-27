@@ -2,7 +2,7 @@
 
 A cross-platform mobile app for managing tourist finances, built with BeeWare/Toga. Track expenses, manage your budget, and get smart financial advice from an AI assistant.
 
-*(Note: Replace this image with a real screenshot of your application)*
+![image](https://github.com/user-attachments/assets/a6c21f11-6091-42c3-8c6f-82f2931eab28)
 
 "Tourist Money Manager" is a financial application designed specifically for travelers. This app allows users to log every transaction in various currencies, which are automatically converted to the user's home currency. With an informative dashboard, users can easily monitor total spending, remaining budget, and a breakdown of expenses by category.
 
